@@ -1,5 +1,3 @@
-Certainly! Here's the project checklist in a summarized format:
-
 ### Project: Integrated Socioeconomic Analysis and Government Initiative Impact Assessment in Nepal
 
 **Objective:**
